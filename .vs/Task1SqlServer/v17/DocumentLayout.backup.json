@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task1-OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E17DBFE-76C3-4C40-9DB8-660D622835FC}|Task1SqlServer\\Task1SqlServer.csproj|C:\\Users\\Daniil\\Desktop\\moto oop\\Task1-OOP\\task1sqlserver\\view\\infowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E17DBFE-76C3-4C40-9DB8-660D622835FC}|Task1SqlServer\\Task1SqlServer.csproj|solutionrelative:task1sqlserver\\view\\infowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E17DBFE-76C3-4C40-9DB8-660D622835FC}|Task1SqlServer\\Task1SqlServer.csproj|c:\\users\\daniil\\desktop\\moto oop\\task1-oop\\task1sqlserver\\view\\infowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E17DBFE-76C3-4C40-9DB8-660D622835FC}|Task1SqlServer\\Task1SqlServer.csproj|solutionrelative:task1sqlserver\\view\\infowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E17DBFE-76C3-4C40-9DB8-660D622835FC}|Task1SqlServer\\Task1SqlServer.csproj|c:\\users\\daniil\\desktop\\moto oop\\task1-oop\\task1sqlserver\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E17DBFE-76C3-4C40-9DB8-660D622835FC}|Task1SqlServer\\Task1SqlServer.csproj|solutionrelative:task1sqlserver\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E17DBFE-76C3-4C40-9DB8-660D622835FC}|Task1SqlServer\\Task1SqlServer.csproj|C:\\Users\\Daniil\\Desktop\\moto oop\\Task1-OOP\\task1sqlserver\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E17DBFE-76C3-4C40-9DB8-660D622835FC}|Task1SqlServer\\Task1SqlServer.csproj|solutionrelative:task1sqlserver\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E17DBFE-76C3-4C40-9DB8-660D622835FC}|Task1SqlServer\\Task1SqlServer.csproj|C:\\Users\\Daniil\\Desktop\\moto oop\\Task1-OOP\\task1sqlserver\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E17DBFE-76C3-4C40-9DB8-660D622835FC}|Task1SqlServer\\Task1SqlServer.csproj|solutionrelative:task1sqlserver\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daniil\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E17DBFE-76C3-4C40-9DB8-660D622835FC}|Task1SqlServer\\Task1SqlServer.csproj|c:\\users\\daniil\\desktop\\moto oop\\task1-oop\\task1sqlserver\\model\\task1dbentities.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{2E17DBFE-76C3-4C40-9DB8-660D622835FC}|Task1SqlServer\\Task1SqlServer.csproj|solutionrelative:task1sqlserver\\model\\task1dbentities.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E17DBFE-76C3-4C40-9DB8-660D622835FC}|Task1SqlServer\\Task1SqlServer.csproj|C:\\Users\\Daniil\\Desktop\\moto oop\\Task1-OOP\\task1sqlserver\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2E17DBFE-76C3-4C40-9DB8-660D622835FC}|Task1SqlServer\\Task1SqlServer.csproj|solutionrelative:task1sqlserver\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E17DBFE-76C3-4C40-9DB8-660D622835FC}|Task1SqlServer\\Task1SqlServer.csproj|c:\\users\\daniil\\desktop\\moto oop\\task1-oop\\task1sqlserver\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E17DBFE-76C3-4C40-9DB8-660D622835FC}|Task1SqlServer\\Task1SqlServer.csproj|solutionrelative:task1sqlserver\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E17DBFE-76C3-4C40-9DB8-660D622835FC}|Task1SqlServer\\Task1SqlServer.csproj|C:\\Users\\Daniil\\Desktop\\moto oop\\Task1-OOP\\task1sqlserver\\core\\dbmodelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E17DBFE-76C3-4C40-9DB8-660D622835FC}|Task1SqlServer\\Task1SqlServer.csproj|solutionrelative:task1sqlserver\\core\\dbmodelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 308,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbModelContext.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task1-OOP\\Task1SqlServer\\Core\\DbModelContext.cs",
+              "RelativeDocumentMoniker": "Task1SqlServer\\Core\\DbModelContext.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task1-OOP\\Task1SqlServer\\Core\\DbModelContext.cs",
+              "RelativeToolTip": "Task1SqlServer\\Core\\DbModelContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T15:06:10.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task1-OOP\\Task1SqlServer\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Task1SqlServer\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task1-OOP\\Task1SqlServer\\View\\MainWindow.xaml",
+              "RelativeToolTip": "Task1SqlServer\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-16T15:06:11.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task1-OOP\\Task1SqlServer\\App.xaml",
+              "RelativeDocumentMoniker": "Task1SqlServer\\App.xaml",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task1-OOP\\Task1SqlServer\\App.xaml",
+              "RelativeToolTip": "Task1SqlServer\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-21T13:22:04.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task1-OOP\\Task1SqlServer\\App.config",
+              "RelativeDocumentMoniker": "Task1SqlServer\\App.config",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task1-OOP\\Task1SqlServer\\App.config",
+              "RelativeToolTip": "Task1SqlServer\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAADiAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-22T08:38:11.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InfoWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task1-OOP\\Task1SqlServer\\View\\InfoWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task1SqlServer\\View\\InfoWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task1-OOP\\Task1SqlServer\\View\\InfoWindow.xaml.cs",
+              "RelativeToolTip": "Task1SqlServer\\View\\InfoWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAvwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T07:35:43.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InfoWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task1-OOP\\Task1SqlServer\\View\\InfoWindow.xaml",
+              "RelativeDocumentMoniker": "Task1SqlServer\\View\\InfoWindow.xaml",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task1-OOP\\Task1SqlServer\\View\\InfoWindow.xaml*",
+              "RelativeToolTip": "Task1SqlServer\\View\\InfoWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-22T06:47:49.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WpfXamlLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs",
+              "ToolTip": "C:\\Users\\Daniil\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAiwHcAAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T13:43:12.965Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task1-OOP\\Task1SqlServer\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Task1SqlServer\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task1-OOP\\Task1SqlServer\\Model\\User.cs",
+              "RelativeToolTip": "Task1SqlServer\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T13:49:38.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task1-OOP\\Task1SqlServer\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task1SqlServer\\View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task1-OOP\\Task1SqlServer\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Task1SqlServer\\View\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAArwCgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T20:50:42.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task1DBEntities.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task1-OOP\\Task1SqlServer\\Model\\Task1DBEntities.edmx",
+              "RelativeDocumentMoniker": "Task1SqlServer\\Model\\Task1DBEntities.edmx",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task1-OOP\\Task1SqlServer\\Model\\Task1DBEntities.edmx [Diagram1]",
+              "RelativeToolTip": "Task1SqlServer\\Model\\Task1DBEntities.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-04-21T13:39:26.751Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

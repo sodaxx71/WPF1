@@ -1,0 +1,219 @@
+C:\Users\User\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\Task1SqlServer.exe.config
+C:\Users\User\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\Task1SqlServer.exe
+C:\Users\User\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\Task1SqlServer.pdb
+C:\Users\User\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1SqlServer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1SqlServer_MarkupCompile.cache
+C:\Users\User\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1SqlServer_MarkupCompile.lref
+C:\Users\User\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1SqlServer.g.resources
+C:\Users\User\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1SqlServer.Properties.Resources.resources
+C:\Users\User\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1SqlServer.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1SqlServer.exe
+C:\Users\User\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1SqlServer.pdb
+C:\Users\User\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\View\InfoWindow.g.cs
+C:\Users\User\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\MaterialDesignColors.dll
+C:\Users\User\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\MaterialDesignColors.pdb
+C:\Users\User\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\User\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\User\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\App.baml
+C:\Users\User\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\View\InfoWindow.baml
+C:\Users\User\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1SqlServer.csproj.CopyComplete
+C:\Users\Daniil\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\Task1SqlServer.exe.config
+C:\Users\Daniil\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\Task1SqlServer.exe
+C:\Users\Daniil\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\Task1SqlServer.pdb
+C:\Users\Daniil\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\MaterialDesignColors.dll
+C:\Users\Daniil\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Daniil\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Daniil\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Daniil\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Daniil\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Daniil\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Daniil\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Daniil\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1SqlServer.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\View\MainWindow.g.cs
+C:\Users\Daniil\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\View\InfoWindow.g.cs
+C:\Users\Daniil\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\App.g.cs
+C:\Users\Daniil\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1SqlServer_MarkupCompile.cache
+C:\Users\Daniil\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1SqlServer_MarkupCompile.lref
+C:\Users\Daniil\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\App.baml
+C:\Users\Daniil\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\View\MainWindow.baml
+C:\Users\Daniil\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\View\InfoWindow.baml
+C:\Users\Daniil\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1SqlServer.g.resources
+C:\Users\Daniil\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1SqlServer.Properties.Resources.resources
+C:\Users\Daniil\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1SqlServer.csproj.GenerateResource.cache
+C:\Users\Daniil\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1Sql.C02162BE.Up2Date
+C:\Users\Daniil\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1SqlServer.exe
+C:\Users\Daniil\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1SqlServer.pdb
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1SqlServer.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\View\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\View\InfoWindow.g.cs
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1SqlServer_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1SqlServer_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1SqlServer.exe
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1SqlServer.pdb
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1SqlServer_Content.g.cs
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\Task1SqlServer.exe.config
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\Task1SqlServer.exe
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\Task1SqlServer.pdb
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\EntityFramework.dll
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\MaterialDesignColors.dll
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\EntityFramework.xml
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\App.baml
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\View\MainWindow.baml
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\View\InfoWindow.baml
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1SqlServer.g.resources
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1SqlServer.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1SqlServer.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Task1SqlServer\Task1SqlServer\obj\Debug\Task1Sql.C02162BE.Up2Date
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\bin\Debug\Task1SqlServer.exe.config
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\bin\Debug\Task1SqlServer.exe
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\bin\Debug\Task1SqlServer.pdb
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\bin\Debug\EntityFramework.dll
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\bin\Debug\MaterialDesignColors.dll
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\bin\Debug\EntityFramework.xml
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\obj\Debug\Task1SqlServer.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\obj\Debug\View\InfoWindow.g.cs
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\obj\Debug\View\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\obj\Debug\Task1SqlServer_Content.g.cs
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\obj\Debug\Task1SqlServer_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\obj\Debug\Task1SqlServer_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\obj\Debug\App.baml
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\obj\Debug\View\InfoWindow.baml
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\obj\Debug\View\MainWindow.baml
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\obj\Debug\Task1SqlServer.g.resources
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\obj\Debug\Task1SqlServer.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\obj\Debug\Task1SqlServer.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\obj\Debug\Task1SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\obj\Debug\Task1Sql.C02162BE.Up2Date
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\obj\Debug\Task1SqlServer.exe
+C:\Users\Пользователь\Desktop\kolbasa1\Task1SqlServer\obj\Debug\Task1SqlServer.pdb
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\bin\Debug\Task1SqlServer.exe.config
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\bin\Debug\Task1SqlServer.exe
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\bin\Debug\Task1SqlServer.pdb
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\bin\Debug\EntityFramework.dll
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\bin\Debug\MaterialDesignColors.dll
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\bin\Debug\EntityFramework.xml
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\obj\Debug\Task1SqlServer.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\obj\Debug\View\InfoWindow.g.cs
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\obj\Debug\View\MainWindow.g.cs
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\obj\Debug\App.g.cs
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\obj\Debug\Task1SqlServer_Content.g.cs
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\obj\Debug\Task1SqlServer_MarkupCompile.cache
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\obj\Debug\Task1SqlServer_MarkupCompile.lref
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\obj\Debug\App.baml
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\obj\Debug\View\InfoWindow.baml
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\obj\Debug\View\MainWindow.baml
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\obj\Debug\Task1SqlServer.g.resources
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\obj\Debug\Task1SqlServer.Properties.Resources.resources
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\obj\Debug\Task1SqlServer.csproj.GenerateResource.cache
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\obj\Debug\Task1SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\obj\Debug\Task1Sql.C02162BE.Up2Date
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\obj\Debug\Task1SqlServer.exe
+C:\Users\Daniil\Desktop\danito\kolbasa1\Task1SqlServer\obj\Debug\Task1SqlServer.pdb
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\bin\Debug\Task1SqlServer.exe.config
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\bin\Debug\Task1SqlServer.exe
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\bin\Debug\Task1SqlServer.pdb
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\bin\Debug\EntityFramework.dll
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\bin\Debug\MaterialDesignColors.dll
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\bin\Debug\EntityFramework.xml
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\obj\Debug\Task1SqlServer.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\obj\Debug\View\InfoWindow.g.cs
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\obj\Debug\View\MainWindow.g.cs
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\obj\Debug\App.g.cs
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\obj\Debug\Task1SqlServer_Content.g.cs
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\obj\Debug\Task1SqlServer_MarkupCompile.cache
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\obj\Debug\Task1SqlServer_MarkupCompile.lref
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\obj\Debug\App.baml
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\obj\Debug\View\InfoWindow.baml
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\obj\Debug\View\MainWindow.baml
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\obj\Debug\Task1SqlServer.g.resources
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\obj\Debug\Task1SqlServer.Properties.Resources.resources
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\obj\Debug\Task1SqlServer.csproj.GenerateResource.cache
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\obj\Debug\Task1SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\obj\Debug\Task1Sql.C02162BE.Up2Date
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\obj\Debug\Task1SqlServer.exe
+C:\Users\Daniil\Desktop\Task1-OOP\Task1SqlServer\obj\Debug\Task1SqlServer.pdb
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\bin\Debug\Task1SqlServer.exe.config
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\bin\Debug\Task1SqlServer.exe
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\bin\Debug\Task1SqlServer.pdb
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\bin\Debug\EntityFramework.dll
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\bin\Debug\MaterialDesignColors.dll
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\bin\Debug\EntityFramework.xml
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\obj\Debug\Task1SqlServer.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\obj\Debug\View\InfoWindow.g.cs
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\obj\Debug\View\MainWindow.g.cs
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\obj\Debug\App.g.cs
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\obj\Debug\Task1SqlServer_Content.g.cs
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\obj\Debug\Task1SqlServer_MarkupCompile.cache
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\obj\Debug\Task1SqlServer_MarkupCompile.lref
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\obj\Debug\App.baml
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\obj\Debug\View\InfoWindow.baml
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\obj\Debug\View\MainWindow.baml
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\obj\Debug\Task1SqlServer.g.resources
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\obj\Debug\Task1SqlServer.Properties.Resources.resources
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\obj\Debug\Task1SqlServer.csproj.GenerateResource.cache
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\obj\Debug\Task1SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\obj\Debug\Task1Sql.C02162BE.Up2Date
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\obj\Debug\Task1SqlServer.exe
+C:\Users\Daniil\Desktop\moto oop\Task1-OOP\Task1SqlServer\obj\Debug\Task1SqlServer.pdb
